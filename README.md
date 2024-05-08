@@ -5,7 +5,8 @@ This project is a Netflix clone app built using React with Redux Thunk for state
 
 # GIF
 
-![Screen_Recording_2024-02-26_at_12_09_24_AdobeExpress-ezgif com-optimize](https://github.com/tubayapa/Netflix-Clone-Redux-Thunk/assets/147662888/de1c60bb-6722-4a57-8641-041b05616bce)
+![307786261-de1c60bb-6722-4a57-8641-041b05616bce](https://github.com/SakirParlakbileker/Netflix-Clone-Redux-Thunk/assets/147662891/1418098d-1b63-46b0-a4ad-79c3adc7a0d8)
+
 
 ## Features:
 - Browse popular movies
